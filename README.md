@@ -1,4 +1,11 @@
-##LINQPadSpy
+Mod for LINQPad 5
+===
+LINQPadSpy does not work on latest LINQPad(LINQPad 5). In releases page, I put modified binary it works on LINQPad 5.
+
+[neuecc/linqpadspy/releases](https://github.com/neuecc/linqpadspy/releases)
+
+LINQPadSpy
+===
 
 LINQPadSpy shows decompiled sources from queries which have been compiled by LINQPad allowing one to see any additional compiler generated code. [Download the latest release](http://vincpa.github.io/linqpadspy/).
 
